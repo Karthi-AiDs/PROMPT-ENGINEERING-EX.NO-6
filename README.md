@@ -1,6 +1,6 @@
 # Ex.No.6 Development of Python Code Compatible with Multiple AI Tools
 
-## Date: 10/10/2025
+## Date: 27/05/2025
 ## NAME: KARTHIKEYAN D
 ## Register no: 212224230115
 
